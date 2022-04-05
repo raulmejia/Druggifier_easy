@@ -5,7 +5,7 @@ This repo describes the code used in https://www.frontiersin.org/articles/10.338
 A) Module Subtyping
 
 B) Selecting genes
-B.1) DEG
+B.1) DEG  
 B.2) Pathway enrichment
 
 C) Drugging 
