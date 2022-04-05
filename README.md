@@ -1,7 +1,7 @@
 This repo describes the code used in https://www.frontiersin.org/articles/10.3389/fphar.2018.00905/full  
 
 Modules:
-## 0) Multipurpose libraries
+## 0) Libraries
 ## 1) Subtyping
 
 ## 2) Selecting genes
