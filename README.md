@@ -1,6 +1,6 @@
 This repo describes the code used in https://www.frontiersin.org/articles/10.3389/fphar.2018.00905/full
-
-## A) Module Subtyping
+Modules:
+## A) Subtyping
 
 ## B) Selecting genes
 #### B.1) DEG  
